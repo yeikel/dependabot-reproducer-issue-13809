@@ -1,5 +1,5 @@
 # syntax = docker/dockerfile:1.7-labs
-FROM python:3.14.1-slim-trixie
+FROM python:3.14.2-slim-trixie
 
 WORKDIR /usr/src/app
 
